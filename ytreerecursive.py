@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 21 10:24:35 2020
+
+@author: aishw
+"""
 import turtle
 tim=turtle.Turtle()
 tim.left(90)

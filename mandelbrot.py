@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Mar 20 21:44:09 2020
+
+@author: aishw
+"""
+
+
 import numpy
 from numba import jit
 import matplotlib.pyplot as plt
